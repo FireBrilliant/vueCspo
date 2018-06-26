@@ -10,6 +10,7 @@
 <script>
 
 import loading from '@/components/loading/loading'
+
 import {mapState} from 'vuex'
 export default {
   name: 'App',

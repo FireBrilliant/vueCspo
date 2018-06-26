@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 import server from './modules/server'
-import myself from './modules/server'
+import myself from './modules/myself'
 import loading from './modules/loading' //缓冲
 import * as constants from '@/constants'
 import Storage from '@/kits/storage'
